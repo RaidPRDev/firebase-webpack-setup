@@ -22,4 +22,4 @@ Install webpack and update the dev dependencies
 > npm install webpack@0.0.0 webpack-cli@0.0.0 --save-dev
 
 Install firebase and update the project dependencies    
-> npm install firebase@0.0.0 --save
+> npm install firebase@0.0.0 --save 
