@@ -37,7 +37,7 @@ firebase-lib
 ├── dist                                # build release folder
 ├── node_modules                        # firebase and webpack dependencies
 └── src
-    ├── index.js                        # entry point javascript 
+    └── index.js                        # entry point javascript 
 ├── package.json                        # npm configuration 
 └── webpack.config.js                   # webpack configuration 
 ```
@@ -128,8 +128,12 @@ export { firebase };
 Open your Git Bash terminal or similar and run the following command in your terminal     
 > npm run build
 
-That's it. The new javascript library should be in your output folder.
+That's it. The new javascript library should be in your output dist folder.
 
-
+```
+firebase-lib
+└── dist                                
+    └── firebase.js                     # final library
+```
 
 
