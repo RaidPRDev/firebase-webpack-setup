@@ -13,7 +13,6 @@ To download Node.js visit https://nodejs.org/en/download/.
 
 #### webpack.js
 Get familiar with webpack go to https://webpack.js.org
-We will install webpack in the next section
 
 
 ## Project Setup
