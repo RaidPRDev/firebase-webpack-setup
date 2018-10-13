@@ -14,6 +14,8 @@ To download Node.js visit https://nodejs.org/en/download/.
 #### webpack.js
 Get familiar with webpack go to https://webpack.js.org
 
+#### firebase sdk
+Get familiar with firebase go to https://firebase.google.com/
 
 ## Project Setup
 Create a directory, initialize npm, install webpack locally, and install the webpack-cli 
