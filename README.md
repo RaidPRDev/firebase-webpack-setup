@@ -79,7 +79,7 @@ module.exports = {
 ```
 
 ### package.json
-Our package.json will look something simuilar to this
+Our package.json will look something similar to this
 ```
 {
   "name": "LibraryName",
