@@ -1,6 +1,9 @@
 # webpack-setup
 Bundle the firebase sdk with webpack.  For reference
 
+The final project source can be downloaded here: 
+https://github.com/lavoe2k/firebase-webpack-lib
+
 ## Prerequisites
 
 #### Node.js
