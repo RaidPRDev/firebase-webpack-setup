@@ -43,6 +43,7 @@ firebase-lib
 ```
 
 ### webpack.config.js
+===============================================================
 Before we set this up, we will need a few nice webpack plugins 
 
 Install CleanWebpackPlugin, it cleans up the output folder when building
