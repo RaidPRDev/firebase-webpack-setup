@@ -1,14 +1,14 @@
 # webpack-setup
-Bundle the firebase sdk with webpack.  For reference
+Bundle the firebase sdk with webpack. 
 
-The final project source can be downloaded here: 
+The final project source can be downloaded here:<br>
 https://github.com/lavoe2k/firebase-webpack-lib
 
 ## Prerequisites
 
 #### Node.js
 
-Before you can start, you need to have Node.js 8.0.0 or greater installed on your machine.
+Before you can start, you need to have Node.js 8.0.0 or greater installed on your machine.<br>
 To download Node.js visit https://nodejs.org/en/download/.
 
 #### webpack.js
