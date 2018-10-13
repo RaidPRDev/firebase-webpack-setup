@@ -39,7 +39,7 @@ firebase-lib
 └── webpack.config.js                   # webpack configuration 
 ```
 
-## webpack.config.js
+### webpack.config.js
 Before we set this up, we will need a few nice webpack plugins 
 
 Install CleanWebpackPlugin, it cleans up the output folder when building
@@ -78,7 +78,7 @@ module.exports = {
 };
 ```
 
-## package.json
+### package.json
 Our package.json will look something simuilar to this
 ```
 {
@@ -105,7 +105,7 @@ Our package.json will look something simuilar to this
 }
 ```
 
-## src/index..js
+### src/index..js
 Our entry point javascript code should look similar to this
 ```javascript
 const firebase = require('firebase/app');
@@ -121,7 +121,7 @@ require('firebase/database');
 export { firebase };
 ```
 
-#### Build library
+##  Build library
 Open your Git Bash terminal or similar and run the following command in your terminal     
 > npm run build
 
